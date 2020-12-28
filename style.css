@@ -1,0 +1,37 @@
+html{
+    background-color: rgb(170, 238, 255);
+}
+
+body {
+    margin: 40px;
+    margin-left: 60px;
+    border: solid 5px dodgerblue;
+    border-radius: 15px;
+}
+
+h1 {
+    font-size: 30px;
+    color: dodgerblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+hr {
+    border: solid 1px dodgerblue;
+    width: 80%;
+}
+
+.names {
+    background-color: rgba(206, 206, 206, 0.384);
+    border: solid 5px dodgerblue;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+label {
+    color: dodgerblue;
+    font-size: xx-large;
+}
+
+span {
+    color: midnightblue;
+}
